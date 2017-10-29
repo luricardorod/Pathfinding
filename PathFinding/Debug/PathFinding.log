@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  PathFinding.cpp
+c:\users\bluemonkey\desktop\pathfinding\pathfinding\pathfinding.cpp(210): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\bluemonkey\desktop\pathfinding\pathfinding\pathfinding.cpp(216): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\bluemonkey\desktop\pathfinding\pathfinding\pathfinding.cpp(222): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\bluemonkey\desktop\pathfinding\pathfinding\pathfinding.cpp(231): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\bluemonkey\desktop\pathfinding\pathfinding\pathfinding.cpp(250): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\bluemonkey\desktop\pathfinding\pathfinding\pathfinding.cpp(256): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\bluemonkey\desktop\pathfinding\pathfinding\pathfinding.cpp(449): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\bluemonkey\desktop\pathfinding\pathfinding\pathfinding.cpp(450): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\bluemonkey\desktop\pathfinding\pathfinding\pathfinding.cpp(467): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bluemonkey\desktop\pathfinding\pathfinding\pathfinding.cpp(469): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CWalker.cpp
+  CVector2D.cpp
+  CGraph.cpp
+  CDijkstra.cpp
+  CDFS.cpp
+  CBFS.cpp
+  CBestFS.cpp
+  CAStar.cpp
+  Generating Code...
+  PathFinding.vcxproj -> C:\Users\blueMonkey\Desktop\5t0\ia\GameStructure\Debug\PathFinding.exe
+  PathFinding.vcxproj -> C:\Users\blueMonkey\Desktop\5t0\ia\GameStructure\Debug\PathFinding.pdb (Full PDB)

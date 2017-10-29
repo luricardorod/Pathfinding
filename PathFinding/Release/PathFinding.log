@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+  CAStar.cpp
+  CBFS.cpp
+  CBestFS.cpp
+  CDFS.cpp
+  CDijkstra.cpp
+  CGraph.cpp
+  CVector2D.cpp
+  CWalker.cpp
+  PathFinding.cpp
+PathFinding.cpp(210): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+PathFinding.cpp(216): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+PathFinding.cpp(222): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+PathFinding.cpp(231): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+PathFinding.cpp(250): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+PathFinding.cpp(256): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+PathFinding.cpp(449): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+PathFinding.cpp(450): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+PathFinding.cpp(467): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+PathFinding.cpp(469): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  0 of 676 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PathFinding.vcxproj -> C:\Users\blueMonkey\Desktop\PathFinding\Release\PathFinding.exe
+  PathFinding.vcxproj -> C:\Users\blueMonkey\Desktop\PathFinding\Release\PathFinding.pdb (Full PDB)
